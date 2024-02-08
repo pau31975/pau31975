@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋 Pantapat K.</h1>
-<h3 align="center">I'm Pantapat K., a Senior AI Engineering Student at Chulalongkorn University. Expected Graduation: May 2024. Check out my resume [here](https://drive.google.com/file/d/1ySr2Ue4FwTOLJU4sd7tE5okLOTaPFc1M/view?usp=sharing)</h3>
+<h1 align="left">Hello 👋 Pantapat K.</h1>
+<h3 align="left">I'm Pantapat K., a Senior AI Engineering Student at Chulalongkorn University. Expected Graduation: May 2024. Check out my resume [here](https://drive.google.com/file/d/1ySr2Ue4FwTOLJU4sd7tE5okLOTaPFc1M/view?usp=sharing)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
