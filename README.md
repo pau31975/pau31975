@@ -2,7 +2,7 @@
 
 - I'm Pantapat K. A Senior AI Engineering Student at Chulalongkorn University.
 - I mainly work on Data Science, Data Analytics, AI, ML, DL, and Business Intelligence.
-- Expected Graduation: May 2024. Check out my resume [here](https://www.linkedin.com/in/pantapat-k/).
+- Expected Graduation: May 2024. Check out my resume [here](https://drive.google.com/file/d/1ySr2Ue4FwTOLJU4sd7tE5okLOTaPFc1M/view?usp=sharing).
 
 ### Programming Languages
 
