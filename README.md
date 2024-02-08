@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+- I'm Pantapat K., a Senior AI Engineering Student at Chulalongkorn University.
+- I work mainly on data science, data analytics, AI, ML, DL, and business intelligence.
+- Expected Graduation: May 2024. Check out my CV [here](https://drive.google.com/file/d/1ySr2Ue4FwTOLJU4sd7tE5okLOTaPFc1M/view?usp=sharing)
 
 <!--
 **pau31975/pau31975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
