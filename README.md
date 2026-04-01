@@ -2,12 +2,10 @@
 
 - I'm Pantapat K. AI Engineer.
 - I mainly work on AI, GenAI, ML, DL, Data Science, Data Analytics, and Business Intelligence.
-- Expected Graduation: May 2024. Check out my resume [here](https://drive.google.com/file/d/1O8WZ5evvX00UKdH2HXfgYeoGqQVbgRH7/view?usp=drive_link).
 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### AI / ML / Data Science
 
